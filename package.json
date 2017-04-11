@@ -8,6 +8,7 @@
   },
   "bugs": "https://github.com/heroku/cli/issues",
   "cli-engine": {
+    "dirname": "heroku",
     "bin": "heroku",
     "node": "7.7.2",
     "defaultCommand": "dashboard",
